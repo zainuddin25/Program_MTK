@@ -64,6 +64,8 @@ while($berhenti)
         $keluar=true;
 
             while($keluar){
+
+                echo "selamat datang di menu keliling lingkaran\n";
                 $angka_satu=readline("masukan angka pertama\t: ");
                 
                 //validasi input angka pertama
