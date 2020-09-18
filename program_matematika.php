@@ -19,6 +19,7 @@ while($berhenti)
     if($pilih_menu==1)
     {
         // Fitur penjumlahan
+        // Muhammad Ferdiansyah
         echo "penjumlahan\n";
         $keluar=true;
 
