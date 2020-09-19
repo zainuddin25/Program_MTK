@@ -1,6 +1,5 @@
 <?php
 // Muhammad Zainuddin Basyar
-echo "Pengurangan \n";
         $keluar=true;
 
             while($keluar){
