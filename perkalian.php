@@ -1,5 +1,5 @@
 <?php
-// Muhammad Zainuddin Basyar
+// Yosafat Restu Adi
 echo "Pengurangan \n";
         $keluar=true;
 

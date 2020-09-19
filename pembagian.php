@@ -1,4 +1,5 @@
 <?php
+//Ahmad Khaniful HUda
 
 $keluar=true;
 
@@ -10,7 +11,7 @@ while($keluar)
 
    echo"Selamat Datang Pada Menu Pembagian!!\n";
 
-   //terima input dari luar
+   //terima input dari lua
     $angka_satu=readline("masukan angka pertama: ");
     $angka_dua=readline("masukan angka kedua: ");
 
